@@ -1,5 +1,5 @@
 # Tilted_BLI_Engine
-Design and Analysis of a Short-Takeoff-andLanding UAV Based on Tilted Boundary Layer Ingestion Engines
+Design and Analysis of a Short-Takeoff-and-Landing UAV Based on Tilted Boundary Layer Ingestion Engines
 
 This is a project towards zero-emission freight drones in urban areas (with the example of cross-district transportation in Shanghai). Inspired by Lilium Jet, we explored the possibility of a non-moving boundary layer ingestion engine for short-distance landing/takeoff instead of VTOL and discussed the effect of the installation tilt and position on the final performance on a NACA 5-digit foil.
 
